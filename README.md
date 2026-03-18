@@ -1,2 +1,2 @@
 # AI
-My own AI agent 
+My own AI agent wich plays games.
